@@ -3,7 +3,7 @@ import requests
 import time
 
 # ✅ Replace with your own key from https://openrouter.ai/keys
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = ""
 
 HEADERS = {
     "Authorization": f"Bearer {OPENROUTER_API_KEY}",
